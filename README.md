@@ -1,2 +1,2 @@
-# nanomobile.github.io
+# nanomobile
 nanomobile website
